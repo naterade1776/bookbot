@@ -1,6 +1,3 @@
-import re
-
-
 
 bookfile = "books/frankenstein.txt"
 with open(bookfile) as txtfile:
